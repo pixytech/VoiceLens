@@ -1,0 +1,9 @@
+{
+  "title": "VoiceLens",
+  "description": "Browser-only speech processing.",
+  "icon": "VL",
+  "color": "#f59e0b",
+  "order": 22,
+  "access": "public",
+  "url": "https://pixytech.github.io/VoiceLens/"
+}
